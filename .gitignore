@@ -1,0 +1,17 @@
+# Node/Bun dependencies
+node_modules/
+
+# Logs & Cache
+*.log
+.cache/
+
+# SQLite Database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+dist/
+data/
+db-migration.ts
+.env
+bun.lockb
