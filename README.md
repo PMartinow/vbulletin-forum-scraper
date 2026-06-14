@@ -45,7 +45,7 @@ If you prefer not to use the Dev Container, you can set up the project manually:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PMartinow/vbulletin-forum-scraper.git
+   git clone https://github.com/prmartinow/vbulletin-forum-scraper.git
    ```
 
    **Important**: Ensure the project is in your WSL2 filesystem (e.g., `/home/<your_username>/`)
